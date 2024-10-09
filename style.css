@@ -1,0 +1,102 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+background-color: #181818;
+color: #FFFFFF;
+text-shadow:#181818;
+overflow-x:hidden
+}
+
+header{
+    margin: 5px;
+}
+
+.logo{
+    margin-top: 4%;
+}
+
+header h1{
+    margin-top: -33px;
+    margin-left: 50px;
+}
+
+.icons{
+    margin-left:75%;
+    margin-top: -27px;
+
+}
+.myicons{
+    margin: 5px;
+}
+
+.fa-youtube{
+  font-size: 30px;
+  color: red; 
+  margin-left: 3%;
+}
+
+.sections{
+    margin:4px;
+    border-radius: 3px;
+    border:solid #FFFFFF;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#section-box{
+    margin: 15px;
+    margin-left: 15%;
+    margin-top: -5px;
+}
+
+.fa-bars{
+margin-left:16px ;
+position: relative;
+bottom: -20px;
+}
+
+.thumbnail{
+    margin: 2px;
+}
+
+.channel-img{
+    border:solid 1px #181818;
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    margin-right: 2%;
+    margin-top: 3%;
+}
+
+.fa-ellipsis-vertical{
+    position: relative;
+    left:85%;
+    margin-top:4px;
+}
+
+.fa-ellipsis-vertical.special-ellipsis{
+    position: relative;
+    left: 75%;
+    
+}
+
+#channel{
+    margin-bottom: 7%;
+    overflow: hidden;
+}
+
+.text{
+    position: relative;
+    left: %;
+    margin-top: -10%;
+    margin-left: 10%;
+}
+
+.first-button{
+    margin-left: 9%;
+}
+/*#individual-channel{
+display: flex;
+}*/
